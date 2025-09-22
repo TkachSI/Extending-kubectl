@@ -1,0 +1,3 @@
+mv kubeplugin.sh /usr/local/bin/kubectl-kubeplugin
+chmod +x /usr/local/bin/kubectl-kubeplugin
+kubectl kubeplugin default
